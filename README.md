@@ -1,2 +1,36 @@
-# ism-star-ml
-ISM*@ST machine learning and deep learning tutorials
+# ISM\*@ST Machine Learning tutorial sessions
+
+Presented by [John Wu](https://github.com/jwuphysics) and [Josh Peek](https://github.com/jegpeek).
+
+# Getting started
+
+## Running on Google Colab (*recommended*)
+Open the Colab notebooks for the [introductory machine learning (part 1)]() and the [deep learning (part 2)]() sessions.
+
+## Running locally (*not recommended*)
+If you want to run these notebooks locally, then you should clone the repository and set up a conda environment with the necessary packages (`numpy`, `scipy`, `matplotlib`, `pandas`, `scikit-learn`, `pytorch`, `fastai`). The installation process might depend on (a) whether you have an NVIDIA graphics card, and (b) what version of CUDA your system is running. To avoid these complications, just use the Colab notebook!
+
+# Session 1 - Introductory Machine learning
+[Colab notebook]()
+
+1. Introducing the science problem: classifying galaxy morphology
+2. Decision trees
+3. $K$-means
+4. Dimensionality reduction and visualization tools
+
+# Session 2 - Deep learning
+[Colab notebook]
+
+1. Introducing the science problem (again)
+2. Solving the task with a CNN
+3. Understanding convolutions
+4. Other neural network ingredients
+5. Backpropagation and optimization
+6. Hyperparameters
+
+# Other resources
+
+- [ISM\*@ST Bayesian tutorials by Erik Tollerud](https://github.com/eteq/bayes-ismstar)
+- [Data analysis recipes: Fitting a model to data](https://arxiv.org/abs/1008.4686)
+- [Scikit-learn - Machine learning with Python](https://scikit-learn.org/stable/)
+- [Fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/)
