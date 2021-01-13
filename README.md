@@ -5,21 +5,20 @@ Presented by [John Wu](https://github.com/jwuphysics) and [Josh Peek](https://gi
 # Getting started
 
 ## Running on Google Colab (*recommended*)
-Open the Colab notebooks for the [introductory machine learning (part 1)]() and the [deep learning (part 2)]() sessions.
+Open the Colab notebooks for the [introductory machine learning (part 1)](https://colab.research.google.com/drive/1MxWjF1vdBF3ArQ6WAR3meV-ytNOVnIOr?usp=sharing) and the [deep learning (part 2)]() sessions.
 
 ## Running locally (*not recommended*)
 If you want to run these notebooks locally, then you should clone the repository and set up a conda environment with the necessary packages (`numpy`, `scipy`, `matplotlib`, `pandas`, `scikit-learn`, `pytorch`, `fastai`). The installation process might depend on (a) whether you have an NVIDIA graphics card, and (b) what version of CUDA your system is running. To avoid these complications, just use the Colab notebook!
 
 # Session 1 - Introductory Machine learning
-[Colab notebook]()
+[Colab notebook](https://colab.research.google.com/drive/1MxWjF1vdBF3ArQ6WAR3meV-ytNOVnIOr?usp=sharing)
 
-1. Introducing the science problem: classifying galaxy morphology
-2. Decision trees
-3. $K$-means
-4. Dimensionality reduction and visualization tools
+1. Introducing the science problem: predicting gas mass fraction
+2. Polynomial regression
+3. Decision trees
 
 # Session 2 - Deep learning
-[Colab notebook]
+[Colab notebook]()
 
 1. Introducing the science problem (again)
 2. Solving the task with a CNN
