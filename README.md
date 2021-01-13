@@ -1,6 +1,7 @@
 # ISM\*@ST Machine Learning tutorial sessions
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jwuphysics/ism-star-ml)
 
-Presented by [John Wu](https://github.com/jwuphysics) and [Josh Peek](https://github.com/jegpeek).
+Presented by John F. Wu [@jwuphysics](https://github.com/jwuphysics) and Josh Peek [@jegpeek](https://github.com/jegpeek).
 
 # Getting started
 
@@ -10,14 +11,14 @@ Open the Colab notebooks for the [introductory machine learning (part 1)](https:
 ## Running locally (*not recommended*)
 If you want to run these notebooks locally, then you should clone the repository and set up a conda environment with the necessary packages (`numpy`, `scipy`, `matplotlib`, `pandas`, `scikit-learn`, `pytorch`, `fastai`). The installation process might depend on (a) whether you have an NVIDIA graphics card, and (b) what version of CUDA your system is running. To avoid these complications, just use the Colab notebook!
 
-# Session 1 - Introductory Machine learning
+# Part 1 - Introductory Machine learning
 [Colab notebook](https://colab.research.google.com/drive/1MxWjF1vdBF3ArQ6WAR3meV-ytNOVnIOr?usp=sharing)
 
 1. Introducing the science problem: predicting gas mass fraction
 2. Polynomial regression
 3. Decision trees
 
-# Session 2 - Deep learning
+# Part 2 - Deep learning
 [Colab notebook]()
 
 1. Introducing the science problem (again)
