@@ -14,23 +14,23 @@ If you want to run these notebooks locally, then you should clone the repository
 # Part 1 - Introductory Machine learning
 [Colab notebook](https://colab.research.google.com/drive/1MxWjF1vdBF3ArQ6WAR3meV-ytNOVnIOr?usp=sharing)
 
-0. Before gettin started
+0. Before getting started
 1. Can we predict a galaxy's neutral hydrogen (HI) content?
-  - Examine data with pandas
-  - A very simplified glossary for xGASS
-  - Examine and clean features
-  - Visualize correlations
+    - Examine data with pandas
+    - A very simplified glossary for xGASS
+    - Examine and clean features
+    - Visualize correlations
 2. Polynomial regression
-  - Multivariate linear regression
-  - Train-test split
-  - Cross-validation
-  - Quadratic and higher-order polynomial models
-  - Overfitting
+    - Multivariate linear regression
+    - Train-test split
+    - Cross-validation
+    - Quadratic and higher-order polynomial models
+    - Overfitting
 3. Decision trees
-  - How scikit-learn does it
-  - Random forests
-  - Optimize hyperparameters
-  - Feature importances
+    - How scikit-learn does it
+    - Random forests
+    - Optimize hyperparameters
+    - Feature importances
 
 # Part 2 - Deep learning
 [Colab notebook]()
