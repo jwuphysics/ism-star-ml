@@ -11,8 +11,7 @@ Open the Colab notebooks for the [introductory machine learning (part 1)](https:
 ## Running locally (*not recommended*)
 If you want to run these notebooks locally, then you should clone the repository and set up a conda environment with the necessary packages (`numpy`, `scipy`, `matplotlib`, `pandas`, `scikit-learn`, `pytorch`, `fastai`). The installation process might depend on (a) whether you have an NVIDIA graphics card, and (b) what version of CUDA your system is running. To avoid these complications, just use the Colab notebook!
 
-# Part 1 - Introductory Machine learning
-[Colab notebook](https://colab.research.google.com/drive/1MxWjF1vdBF3ArQ6WAR3meV-ytNOVnIOr?usp=sharing)
+# Part 1 - Introductory Machine learning [![Colab - Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jwuphysics/ism-star-ml/blob/main/notebook/ISM_ST_Introductory_Machine_Learning.ipynb)
 
 0. Before getting started
 1. Can we predict a galaxy's neutral hydrogen (HI) content?
@@ -33,7 +32,6 @@ If you want to run these notebooks locally, then you should clone the repository
     - Feature importances
 
 # Part 2 - Deep learning
-[Colab notebook]()
 
 1. Introducing the science problem (again)
 2. Solving the task with a CNN
