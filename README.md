@@ -33,13 +33,16 @@ If you want to run these notebooks locally, then you should clone the repository
     - Feature importances
 
 # Part 2 - Deep learning
+[![Colab - Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jwuphysics/ism-star-ml/blob/main/notebook/ISM_ST_Introductory_Machine_Learning.ipynb)
 
 1. Introducing the science problem (again)
 2. Solving the task with a CNN
 3. Understanding convolutions
 4. Other neural network ingredients
-5. Backpropagation and optimization
-6. Hyperparameters
+5. A simple CNN model in action (forward)
+6. Optimization
+7. A simple CNN model in action (forward + backward)
+8. Hyperparameters
 
 # Other resources
 
