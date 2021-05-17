@@ -33,7 +33,7 @@ If you want to run these notebooks locally, then you should clone the repository
     - Feature importances
 
 # Part 2 - Deep learning
-[![Colab - Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jwuphysics/ism-star-ml/blob/main/notebook/ISM_ST_Introductory_Machine_Learning.ipynb)
+[![Colab - Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jwuphysics/ism-star-ml/blob/main/notebook/ISM_ST_Introductory_Machine_Learning.ipynb)
 
 1. Introducing the science problem (again)
 2. Solving the task with a CNN
