@@ -6,7 +6,7 @@ Presented by John F. Wu ([@jwuphysics](https://github.com/jwuphysics)) and Josh 
 # Getting started
 
 ## Running on Google Colab (*recommended*)
-Open the Colab notebooks for the [introductory machine learning (part 1)](https://colab.research.google.com/drive/1MxWjF1vdBF3ArQ6WAR3meV-ytNOVnIOr?usp=sharing) and the [deep learning (part 2)]() sessions.
+Open the Colab notebooks for the [introductory machine learning (part 1)](https://colab.research.google.com/drive/1MxWjF1vdBF3ArQ6WAR3meV-ytNOVnIOr?usp=sharing) and the [deep learning (part 2)](https://colab.research.google.com/github/jwuphysics/ism-star-ml/blob/main/notebook/ISM_ST_Introductory_Machine_Learning.ipynb) sessions.
 
 ## Running locally (*not recommended*)
 If you want to run these notebooks locally, then you should clone the repository and set up a conda environment with the necessary packages (`numpy`, `scipy`, `matplotlib`, `pandas`, `scikit-learn`, `pytorch`, `fastai`). The installation process might depend on (a) whether you have an NVIDIA graphics card, and (b) what version of CUDA your system is running. To avoid these complications, just use the Colab notebook!
