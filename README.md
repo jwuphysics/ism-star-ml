@@ -50,3 +50,4 @@ If you want to run these notebooks locally, then you should clone the repository
 - [Data analysis recipes: Fitting a model to data](https://arxiv.org/abs/1008.4686)
 - [Scikit-learn - Machine learning with Python](https://scikit-learn.org/stable/)
 - [Fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Training a deep neural network on astronomical data from scratch](https://jwuphysics.github.io/blog/galaxies/astrophysics/deep%20learning/computer%20vision/fastai/2020/05/26/training-a-deep-cnn.html)
