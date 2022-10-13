@@ -1,7 +1,7 @@
 # ISM\*@ST Machine Learning tutorial sessions
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jwuphysics/ism-star-ml)
 
-Presented by John F. Wu ([@jwuphysics](https://github.com/jwuphysics)) and Josh Peek ([@jegpeek](https://github.com/jegpeek)).
+Presented by John F. Wu ([@jwuphysics](https://github.com/jwuphysics)).
 
 # Getting started
 
